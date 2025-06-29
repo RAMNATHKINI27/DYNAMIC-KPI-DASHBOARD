@@ -9,7 +9,7 @@ This interactive Power BI dashboard showcases dynamic chart titles and toggle bu
 - Interactive and user-friendly design.
 
 ## 📷 Preview
-![Dashboard Preview](dashboard preview.png)
+![Dashboard Preview](dashboard%20preview.png)
 
 ## 📁 Files Included
 - DYNAMIC-KPI-DASHBOARD.pbix – Power BI dashboard file
